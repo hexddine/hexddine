@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" /></a>
+  <a href="#"><img src="https://image.benq.com/is/image/benqco/04-behind-great-thinking-v3?scl=1&fmt=png-alpha" /></a>
 </div>
 
 <div align="center">

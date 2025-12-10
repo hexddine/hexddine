@@ -83,7 +83,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <div align="center">  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=devddine&show_icons=true&theme=transparent&rank_icon=github&hide=prs,issues&custom_title=Alae-EDdine's%20Stats&border_radius=10&bg_color=151b22&text_color=5bb3fc&hide_border=true&title_color=fff&icon_color=fe8732" width="100%" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dredyne&show_icons=true&theme=transparent&rank_icon=github&hide=prs,issues&custom_title=Alae-EDdine's%20Stats&border_radius=10&bg_color=151b22&text_color=5bb3fc&hide_border=true&title_color=fff&icon_color=fe8732" width="100%" height="auto" />
 </a>
 </div> 
 
@@ -106,7 +106,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <a href="mailto:devddine@gmail.com" target="_blank">
+  <a href="mailto:Dredyne@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
   </a>
     <img width="12" />
@@ -122,7 +122,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devddine.devddine&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dredyne.Dredyne&"  />
 </div>
 
 ###
